@@ -6,7 +6,7 @@
     "variables": {},
     "resources": [
         {
-            "name": "pradeepdeepu36369875",
+            "name": "pradeepdeepu3633369875",
             "type": "Microsoft.Storage/storageAccounts",
             "apiVersion": "2023-04-01",
             "location": "[resourceGroup().location]",
